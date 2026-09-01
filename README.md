@@ -3,7 +3,7 @@
 A machine learning pipeline for predicting credit-card default risk from high-dimensional customer behavioral, transaction, and credit-bureau data.
 
 The project was developed for **Convolve 3.0**, a Pan-IIT AI/ML Hackathon, and focuses on building an imbalance-aware **Behavior Score Model** capable of identifying customers with an elevated probability of future default.
-
+ 
 ---
 
 ## Project Overview
